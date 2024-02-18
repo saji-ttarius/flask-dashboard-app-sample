@@ -1,0 +1,43 @@
+# OS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js
+node_modules
+npm-debug.log*
+
+# Yarn
+.yarn-metadata.json
+.yarn/
+.yarn-integrity
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Pycharm
+.idea/workspace.xml
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+.tmp/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.
+
+# Virtual environment
+venv/
+*.venv/
